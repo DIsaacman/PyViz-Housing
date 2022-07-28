@@ -18,7 +18,7 @@ Your job is to use your data visualisation skills, including aggregation, intera
 
 * Ensure You Can Run Dependencies and Libraries
 
-![Libraries](/Images/Libraries.PNGImage)
+![Libraries](/Images/Libraries.PNG)
 
 * Clear and ReRun the Jupyter Terminal
 
